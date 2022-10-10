@@ -2,14 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## `Users list app
+## Users list app
 
-My application includes the following functionalities:
-• Retrieves data from an external API and renders it in a table
-• Allows you to add a new user
-• Allows you to edit existing users
-• Allows you to delete existing users
-•	Allows you to sort data in ascending or descending order
+My application includes the following functionalities:\
+• Retrieves data from an external API and renders it in a table\
+• Allows you to add a new user\
+• Allows you to edit existing users\
+• Allows you to delete existing users\
+•	Allows you to sort data in ascending or descending order\
 •	Allows to search according to the given text
 
 ### `npm install`
