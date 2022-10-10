@@ -12,6 +12,10 @@ My application includes the following functionalities:\
 •	Allows you to sort data in ascending or descending order\
 •	Allows to search according to the given text
 
+## To initialize the application:
+
+### `clone the current repository and run following commands`
+
 ### `npm install`
 
 This command installs a package and any packages that it depends on.
