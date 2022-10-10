@@ -14,7 +14,7 @@ My application includes the following functionalities:\
 
 ## To initialize the application:
 
-### `clone the current repository and run following commands`
+Clone the current repository and run following commands:
 
 ### `npm install`
 
